@@ -10,7 +10,7 @@ Markdown – is a lightweight markup language created by John Gruber and Aaron S
 
 * [Introduction](Introduction.md)
 * [Lesson 1 - Features](Features.md)
-* [Lesson 2 - Uses](Uses.md)
+* [Lesson 2 - Uses](Use.md)
 * [Lesson 3 - Syntax](Syntax.md)
 * [Lesson 4 - Headings](Headings.md)
 * [Lesson 5 - Header Levels](Heading-Levels.md)
