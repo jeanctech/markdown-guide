@@ -43,7 +43,7 @@ Markdown – is a lightweight markup language created by John Gruber and Aaron S
 
 ## Introduction
 
-It is distributed under the BSD license and is distributed as a plugin, or at least it is available in different CMS content management systems. Markdown converts marked up text into Xhtml documents using html2text created by Aaron Swartz. Markdown was originally implemented in Perl by Gruber, but has since been translated into a multitude of programming languages, including Php, Python, Ruby, Java, and Common Lisp.
+It is distributed under the BSD license and is distributed as a plugin, or at least it is available in different Cms content management systems. Markdown converts marked up text into Xhtml documents using html2text created by Aaron Swartz. Markdown was originally implemented in Perl by Gruber, but has since been translated into a multitude of programming languages, including Php, Python, Ruby, Java, and Common Lisp.
 
 ## Important information and frequently asked questions
 
