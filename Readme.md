@@ -1,6 +1,7 @@
 # Markdown - Documentation
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## What is Markdown?
 
@@ -49,7 +50,7 @@ It is distributed under the Bsd license and is distributed as a plugin, or at le
 
 Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial goal of the project. And then I don't rule out adding new lessons in the future, but I think that for now it can serve as a basis for anyone who wants to start learning this language.
 
-*As soon as the course continues I will update the repository and notify the networks.
+* As soon as the course continues I will update the repository and notify the networks.
 Thank you very much for all the support shown!
 
 ## Links of interest
@@ -68,7 +69,7 @@ Thank you very much for all the support shown!
 
 * [StackEdit](https://stackedit.io/) - StackEdit
 
-* [Typora](https://typora.io/) -Typora
+* [Typora](https://typora.io/) - Typora
 
 ##
 
