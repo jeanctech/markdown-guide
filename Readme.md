@@ -1,78 +1,68 @@
-# Markdown - Documentation
+# > Markdown-notes.sh 🚀
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+> Learn Markdown as if you were in the terminal.
+> No frameworks, no black magic — just pure code.
+> `echo "Let's go nerd mode 🧠"`
 
-## What is Markdown?
+## 📁 ./content
 
-Markdown – is a lightweight markup language created by John Gruber and Aaron Swartz that seeks to achieve maximum readability and publishability in both its input and output forms, drawing inspiration from many existing conventions for marking up email messages using plain text.
+* [Day 00 - Introduction](./notes/introduction.md)
+* [Day 01 - Features](./notes/features.md)
+* [Day 02 - Uses](./notes/use.md)
+* [Day 03 - Syntax](./notes/syntax.md)
+* [Day 04 - Headings](./notes/headings.md)
+* [Day 05 - Header Levels](./notes/heading-levels.md)
+* [Day 06 - Text Format](./notes/text-format.md)
+* [Day 07 - Bold](./notes/bold.md)
+* [Day 08 - Italic](./italic.md)
+* [Day 09 - Strikethrough](./notes/strikethrough.md)
+* [Day 10 - Underlined](./notes/underlined.md)
+* [Day 11 - Online Code](./notes/online-code.md)
+* [Day 12 - Lists](./notes/lists.md)
+* [Day 13 - Unordered Lists](./notes/unordered-lists.md)
+* [Day 14 - Ordered Lists](./notes/ordered-lists.md)
+* [Day 15 - Nested Lists](./notes/nested-lists.md)
+* [Day 16 - Links](./notes/links.md)
+* [Day 17 - Text Links](./notes/text-links.md)
+* [Day 18 - Reference Links](./notes/reference-links.md)
+* [Day 19 - Url Links](./notes/url-links.md)
+* [Day 20 - Images](./notes/images.md)
+* [Day 21 - Insert Images](./notes/insert-images.md)
+* [Day 22 - Reference Images](./notes/reference-images.md)
+* [Day 23 - Citations](./notes/citations.md)
+* [Day 24 - Block Quotes](./notes/block-quotes.md)
+* [Day 25 - Online Dating](./notes/online-dating.md)
+* [Day 26 - Horizontal Lines](./notes/horizontal-lines.md)
+* [Day 27 - Code](./notes/code.md)
+* [Day 28 - Code Blocks](./notes/code-blocks.md)
+* [Day 29 - Syntax Highlighting](./notes/syntax-highlighting.md)
+* [Day 30 - Tables](./notes/tables.md)
 
-## Index
+## 🔗 ./resources
 
-* [Introduction](Introduction.md)
-* [Lesson 1 - Features](Features.md)
-* [Lesson 2 - Uses](Use.md)
-* [Lesson 3 - Syntax](Syntax.md)
-* [Lesson 4 - Headings](Headings.md)
-* [Lesson 5 - Header Levels](Heading-Levels.md)
-* [Lesson 6 - Text Format](Text-Format.md)
-* [Lesson 7 - Bold](Bold.md)
-* [Lesson 8 - Italic](Italic.md)
-* [Lesson 9 - Strikethrough](Strikethrough.md)
-* [Lesson 10 - Underlined](Underlined.md)
-* [Lesson 11 - Online Code](Online-Code.md)
-* [Lesson 12 - Lists](Lists.md)
-* [Lesson 13 - Unordered Lists](Unordered-Lists.md)
-* [Lesson 14 - Ordered Lists](Ordered-Lists.md)
-* [Lesson 15 - Nested Lists](Nested-Lists.md)
-* [Lesson 16 - Links](Links.md)
-* [Lesson 17 - Text Links](Text-Links.md)
-* [Lesson 18 - Reference Links](Reference-Links.md)
-* [Lesson 19 - Url Links](Url-Links.md)
-* [Lesson 20 - Images](Images.md)
-* [Lesson 21 - Insert Images](Insert-Images.md)
-* [Lesson 22 - Reference Images](Reference-Images.md)
-* [Lesson 23 - Citations](Citations.md)
-* [Lesson 24 - Block Quotes](Block-Quotes.md)
-* [Lesson 25 - Online Dating](Online-Dating.md)
-* [Lesson 26 - Horizontal Lines](Horizontal-Lines.md)
-* [Lesson 27 - Code](Code.md)
-* [Lesson 28 - Code Blocks](Code-Blocks.md)
-* [Lesson 29 - Syntax Highlighting](Syntax-Highlighting.md)
-* [Lesson 30 - Tables](Tables.md)
-* [Next Steps](Next-Steps.md)
-
-## Introduction
-
-It is distributed under the Bsd license and is distributed as a plugin, or at least it is available in different Cms content management systems. Markdown converts marked up text into Xhtml documents using html2text created by Aaron Swartz. Markdown was originally implemented in Perl by Gruber, but has since been translated into a multitude of programming languages, including Php, Python, Ruby, Java, and Common Lisp.
-
-## Important information and frequently asked questions
-
-Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial goal of the project. And then I don't rule out adding new lessons in the future, but I think that for now it can serve as a basis for anyone who wants to start learning this language.
-
-* As soon as the course continues I will update the repository and notify the networks.
-Thank you very much for all the support shown!
-
-## Links of interest
-
-* [Markdown Official Website](https://www.markdownguide.org/)
-
-* [Official Markdown in Spanish](https://markdown.es/)
-
-* [30 days of Markdown Repository](https://github.com/Python-Markdown/markdown)
-
+* [Markdown Official](https://www.markdownguide.org/)
+* [Manual in Spanish](https://markdown.es/)
+* [30 days of Markdown](https://github.com/Python-Markdown/markdown)
 * [Game to Learn Markdown](https://www.markdowntutorial.com/es/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Readme Editor](https://readme.so/es/editor)
+* [StackEdit](https://stackedit.io/)
+* [Typora](https://typora.io/)
 
-* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
+## 🧠 ./notes
 
-* [Readme Editor](https://readme.so/es/editor) - Readme Editor
+This repository is like my learning journal.
 
-* [StackEdit](https://stackedit.io/) - StackEdit
+I'm not an expert. It's not an official course. I just documented what I learned.
 
-* [Typora](https://typora.io/) - Typora
+I might add more in the future if I get even more advanced with Markdown.
 
-##
+## 🌟 ./support
 
-#### You can support my work "☆Star" in the repository or nominate me for a "GitHub Star". Thank you!
+If it was helpful or you liked it, please leave a star.
+That motivates me more than a cup of coffee ☕✨
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/).
+## 🛸 ./author
+
+**Author:** `jeanctech`,
+**Style:** `terminal vibes`, functional documentation, no fear of code.
